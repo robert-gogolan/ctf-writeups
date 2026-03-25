@@ -2,6 +2,7 @@
 
 A collection of my CTF (Capture the Flag) competition writeups.
 
-## Writeups
+### CyberEdu
 
-CyberEdu - XoRar - [Link](./cyberedu/xorar/xo-rar.md)
+- [Link](./cyberedu/xorar/main.md) - XoRar
+- [Link](./cyberedu/BBBBBBBBBB/main.md) - BBBBBBBBB
