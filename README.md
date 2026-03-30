@@ -7,3 +7,4 @@ A collection of my CTF (Capture the Flag) writeups.
 - [Link](./cyberedu/xorar/main.md) - XoRar
 - [Link](./cyberedu/BBBBBBBBBB/main.md) - BBBBBBBBB
 - [Link](./cyberedu/web-intro/main.md) - web-intro
+- [Link](./cyberedu/old-tickets/main.md) - old-tickets
